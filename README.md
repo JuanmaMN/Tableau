@@ -19,3 +19,5 @@ Tableau analysis published
 8. GINI Index. Published August 2017. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/GINIIndex_1/GINIIndex).
 
 9. London Cycle Hire Scheme. Published 2016 - 2018.  [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/LondonCycleHireScheme/Story1)
+
+10. How inflation (CPI) compare to Earnings growth  - UK. Published April 2018. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/HowinflationCPIcomparetoEarningsgrowth-UK/CPIVSEarningsGrowth)
