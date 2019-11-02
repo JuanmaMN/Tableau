@@ -31,4 +31,11 @@ Tableau analyses published
 
 <br>
 
-<img width="528" alt="Tableau public profile" class="center" src="https://user-images.githubusercontent.com/37122520/68068796-13ed2e00-fd51-11e9-89f1-b806e6102d41.png" >
+
+<p align="center">
+  <img width="528" alt="Tableau public profile" class="center" src="https://user-images.githubusercontent.com/37122520/68068796-13ed2e00-fd51-11e9-89f1-b806e6102d41.png">
+</p>
+
+
+
+
