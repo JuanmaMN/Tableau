@@ -20,13 +20,17 @@
 
 8. GINI Index. Published August 2017. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/GINIIndex_1/GINIIndex).
 
-9. London Cycle Hire Scheme. Published 2016 - 2019.  [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/LondonCycleHireScheme/Story1)
+9. London Cycle Hire Scheme. Published 2016 - 2021.  [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/LondonCycleHireScheme/Story1)
 
 10. How inflation (CPI) compare to Earnings growth  - UK. Published April 2018. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/HowinflationCPIcomparetoEarningsgrowth-UK/CPIVSEarningsGrowth)
 
 11. Premier League - Stats - 2018 - 19. Published August 2019. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/PremierLeague-Stats-2018-19/PremierLeagueStats-201919)
 
-11. Unemployment - Country Analysis - Published October 2019. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/Unemployment-Tableau-October2019/Unemployment-Analysis)
+12. Unemployment - Country Analysis - Published October 2019. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/Unemployment-Tableau-October2019/Unemployment-Analysis)
+
+13. International trade UK -  Published November 2020. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/InternationaltradeUK-November2020/Seconddashboard)
+
+14. Climate at a Glance - Global Temperature Anomalies - 1880 to 2021 - Published February 2021. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/ClimateataGlance-GlobalTemperatureAnomalies-1880to2021/ClimateataGlance-GlobalTemperatureAnomalies-1880to2021)
 
 <br>
 
