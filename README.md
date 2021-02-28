@@ -32,6 +32,8 @@
 
 14. Climate at a Glance - Global Temperature Anomalies - 1880 to 2021 - Published February 2021. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/ClimateataGlance-GlobalTemperatureAnomalies-1880to2021/ClimateataGlance-GlobalTemperatureAnomalies-1880to2021)
 
+15. Air pollution exposure - 2019 - Published February 2021. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/Airpollutionexposure-2019/Blue)
+
 <br>
 
 #### Tableau public profile - [link](https://public.tableau.com/profile/juanma4308#!/)
