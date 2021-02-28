@@ -1,3 +1,4 @@
+
 # Tableau public profile - Analyses
 
 
@@ -43,7 +44,7 @@
 
 
 <p align="center">
-  <img width="528" alt="Tableau public profile" class="center" src="https://user-images.githubusercontent.com/37122520/68068796-13ed2e00-fd51-11e9-89f1-b806e6102d41.png">
+<img width="528" alt="Tableau profile" src="https://user-images.githubusercontent.com/37122520/109428813-a575ba00-79f0-11eb-9d83-f6cdfa7da5b9.png">
 </p>
 
 
