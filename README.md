@@ -36,6 +36,9 @@
 15. Air pollution exposure - 2019 - Published February 2021. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/Airpollutionexposure-2019/Blue)
 
 16. U.S. bi-variate map - Personal Income - Unemployment rate - Published March 2021. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/U_S_bi-variatemap-PersonalIncome-Unemploymentrate/Bivariatemaps)
+
+17. Air pollution exposure - 2010-2019  - Published March 2021. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/Airpollutionexposure-2010-2019/High35)
+
 <br>
 
 #### Tableau public profile - [link](https://public.tableau.com/profile/juanma4308#!/)
