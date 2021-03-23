@@ -39,6 +39,8 @@
 
 17. Air pollution exposure - 2010-2019  - Published March 2021. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/Airpollutionexposure-2010-2019/High35)
 
+18. U.S. Presidential Elections 1976-2020 - Published March 2021. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/USPresidentialElections1976-2020/USmap)
+19. 
 <br>
 
 #### Tableau public profile - [link](https://public.tableau.com/profile/juanma4308#!/)
