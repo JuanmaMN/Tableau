@@ -45,6 +45,11 @@
 17. Air pollution exposure - 2010-2019  - Published March 2021. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/Airpollutionexposure-2010-2019/High35)
 
 18. U.S. Presidential Elections 1976-2020 - Published March 2021. [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/USPresidentialElections1976-2020/USmap)
+
+19. US County Unemployment Rate - 2019  - Published April 2021.   [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/USCountyUnemploymentRate-2019/US_County)
+
+20. Global Annual Tree Cover Loss by Dominant Driver Hectares - Published April 2021.   [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/GlobalAnnualTreeCoverLossbyDominantDriverHectares/Tree_cover)
+
  
 <br>
 
