@@ -51,6 +51,8 @@
 
 20. Global Annual Tree Cover Loss by Dominant Driver Hectares - Published April 2021.   [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/GlobalAnnualTreeCoverLossbyDominantDriverHectares/Tree_cover)
 
+21. US GDP by state - Published April 2021.   [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/USGDPbystate/USGDPstate)
+
  
 <br>
 
