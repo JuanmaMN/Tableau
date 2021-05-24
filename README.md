@@ -53,6 +53,7 @@
 
 21. US GDP by state - Published April 2021.   [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/USGDPbystate/USGDPstate)
 
+22. US Unemployment Rate by State - April 2021 - Published May 2021.   [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/USUnemploymentRatebyState-April2021/Unemployment_rate)
  
 <br>
 
