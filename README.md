@@ -56,6 +56,7 @@
 22. US Unemployment Rate by State - April 2021 - Published May 2021.   [Tableau public link](https://public.tableau.com/profile/juanma4308#!/vizhome/USUnemploymentRatebyState-April2021/Unemployment_rate)
 
 23. The Plastic Waste Makers Index - Published June 2021. [Tableau public link](https://public.tableau.com/app/profile/juanma4308/viz/MakeoverMonday2021Week22-ThePlasticWasteMakersIndex_16227357208930/The_Plastic_Waste_Makers_Index)
+24. Student Loan Debt and Disbursements by State #MakeoverMonday 2021 W24. [Tableau public link](https://public.tableau.com/app/profile/juanma4308/viz/StudentLoanDebtandDisbursementsbyStateMakeoverMonday2021W24/Student_Loan)
 
 
  
