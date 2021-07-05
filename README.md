@@ -63,6 +63,9 @@
 
 26. #MakeoverMonday 2021 Week 26 - How popular is your birthday. [Tableau public link](https://public.tableau.com/app/profile/juanma4308/viz/MakeoverMonday2021W26HowpopularisyourBirthday/birthday)
 
+27. #MakeoverMonday 2021W27 2020 Electoral Map If Only ___ Voted. [Tableau public link](https://public.tableau.com/app/profile/juanma4308/viz/MakeoverMonday2021W272020ElectoralMapIfOnly___Voted/US_Map)
+
+
  
 <br>
 
