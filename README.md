@@ -61,6 +61,8 @@
 
 24. Student Loan Debt and Disbursements by State #MakeoverMonday 2021 W24. [Tableau public link](https://public.tableau.com/app/profile/juanma4308/viz/StudentLoanDebtandDisbursementsbyStateMakeoverMonday2021W24/Student_Loan)
 
+25. Corruption Perceptions Index. [Tableau public link](https://public.tableau.com/app/profile/juanma4308/viz/CorruptionPerceptionsIndex_16439831479980/CPIindex)
+
 # MakeoverMonday 2021 
 
 
